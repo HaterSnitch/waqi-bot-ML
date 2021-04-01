@@ -1,4 +1,6 @@
 # waqi-bot-ML
+Check out our webpage !
+https://hatersnitch.github.io//waqi-bot-data-webpage/
 
 WaqiBot is a social justice warrior that fights Islamophobia in realtime in Discord servers utilizing machine learning. It also combats Islamic misconceptions by teaching users about the Qu'ran.
 
